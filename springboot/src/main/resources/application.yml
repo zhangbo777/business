@@ -1,0 +1,7 @@
+spring:
+  profiles:
+    active: prod
+
+
+business:
+  imageHost: http://img.neuedu.com/

@@ -1,0 +1,10 @@
+server:
+  port: 8080
+  servlet:
+    context-path: /zhangbo
+
+
+lia:
+  minMoney: 1
+  maxMoney: 50
+  desc: 最低${lia.minMoney}最高${lia.maxMoney}
